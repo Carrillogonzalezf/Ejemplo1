@@ -1,0 +1,44 @@
+#Header{
+	background-color: #201C1B;
+	
+	width: 100%;
+ 	height: 40px;
+ 	text-align: center;
+ 	margin: 0;
+ 	
+}
+#boton{
+        font-size:15px;
+        font-weight:bold;
+        color:white;
+        background:#201C1B;
+        border:1000px;
+        border-color: #201C1B;
+        width:10%;
+        height:40px;
+       }
+.grid-block{
+	  width: 70%;
+	   height: 400px;
+
+}
+.flecha{
+	 position: absolute;
+	  top: 35px;
+	  right: 70%;
+}
+.barra{
+  transform: rotate(90deg);
+  width: 50%
+	height: 50px;
+  position: absolute;
+   top: 27px;
+   right: 50%;
+}
+.tamaniobarra{
+	width: 50%
+	height: 50px;
+
+
+	
+}
